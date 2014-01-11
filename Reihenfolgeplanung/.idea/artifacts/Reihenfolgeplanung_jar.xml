@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Reihenfolgeplanung:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Reihenfolgeplanung_jar</output-path>
+    <root id="archive" name="Reihenfolgeplanung.jar">
+      <element id="module-output" name="Reihenfolgeplanung" />
+    </root>
+  </artifact>
+</component>
